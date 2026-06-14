@@ -18,14 +18,14 @@ I work across **Embodied Intelligence, Multimodal Models, Computer Vision, GPU/A
 
 ### 🛠 Full Tech Stack
 #### Programming Languages
-C/C++, CUDA, Python, Verilog, MATLAB, JavaScript, Shell
+C/C++, CUDA, Python, Verilog, MATLAB, JavaScript, MySQL, Shell
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincentlu1412)
 
 #### AI & Computer Vision
 PyTorch, TensorFlow, Hugging Face Transformers, Diffusion Models, Reinforcement Learning, Imitation Learning
 
 #### LLM & Multimodal
-VLM/VLA, LoRA/QLoRA, PEFT, RLHF, vLLM, TensorRT-LLM, Triton, LangChain, RAG
+VLM/VLA, LoRA/QLoRA, PEFT, RLHF, vLLM, TensorRT-LLM, Triton, LangChain, LangGraph, LlamaIndex, RAG
 
 #### GPU, Cluster & System
 CUDA, NCCL, Slurm, Kubernetes(K8s), Docker, Linux, Performance Profiling & Debugging
@@ -47,8 +47,8 @@ Chip modeling, simulation infrastructure, pre-silicon validation, OS & device dr
 ---
 
 ### 📫 Contact
-Email: 22210720187@m.fudan.edu.cn/vincentlu1412@gmail.com
-Location: Shanghai, China
+####Email: 22210720187@m.fudan.edu.cn/vincentlu1412@gmail.com
+####Location: Shanghai, China
 
 <!--
 **Vincentlu1412/Vincentlu1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
