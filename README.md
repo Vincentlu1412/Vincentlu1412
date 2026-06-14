@@ -47,8 +47,8 @@ Chip modeling, simulation infrastructure, pre-silicon validation, OS & device dr
 ---
 
 ### 📫 Contact
-####Email: 22210720187@m.fudan.edu.cn/vincentlu1412@gmail.com
-####Location: Shanghai, China
+- Email: 22210720187@m.fudan.edu.cn/vincentlu1412@gmail.com
+- Location: Shanghai, China
 
 <!--
 **Vincentlu1412/Vincentlu1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
