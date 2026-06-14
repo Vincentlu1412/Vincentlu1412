@@ -2,6 +2,7 @@
 Master graduate in Electronic Information, **Fudan University**.
 I work across **Embodied Intelligence, Multimodal Models, Computer Vision, GPU/AI Hardware Architecture, High-Performance Computing and AI System Infrastructure**, with solid experience in algorithm implementation, performance optimization, cluster operation and hardware-related system development.
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincentlu1412)
 
 ---
@@ -17,7 +18,8 @@ I work across **Embodied Intelligence, Multimodal Models, Computer Vision, GPU/A
 
 ### 🛠 Full Tech Stack
 #### Programming Languages
-C/C++, CUDA, Python, Verilog, MATLAB
+C/C++, CUDA, Python, Verilog, MATLAB, JavaScript, Shell
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincentlu1412)
 
 #### AI & Computer Vision
 PyTorch, TensorFlow, Hugging Face Transformers, Diffusion Models, Reinforcement Learning, Imitation Learning
@@ -39,13 +41,13 @@ Chip modeling, simulation infrastructure, pre-silicon validation, OS & device dr
 ### 📚 Background & Experience
 - Research focused on embodied intelligence and robotic task execution; multiple conference publications & ongoing top conference submissions
 - Industrial internships in robotic manipulation, UAV perception, video transmission system and embedded algorithm development
-- Experience in AI cluster & HPC server maintenance, large-scale model training, distributed computing and regression testing
+- Experience in AI cluster & HPC server maintenance, large-scale model training, distributed computing and regression testing ()
 - Teaching Assistant for AI courses, responsible for technical guidance on GPU resource allocation & high-performance computing
 
 ---
 
 ### 📫 Contact
-Email: 22210720187@m.fudan.edu.cn
+Email: 22210720187@m.fudan.edu.cn/vincentlu1412@gmail.com
 Location: Shanghai, China
 
 <!--
