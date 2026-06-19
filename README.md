@@ -19,6 +19,7 @@ I work across **Embodied Intelligence, Multimodal Models, Computer Vision, GPU/A
 ### 🛠 Full Tech Stack
 #### Programming Languages
 C/C++, CUDA, Python, Verilog, MATLAB, JavaScript, MySQL, Shell
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincentlu1412)
 
 #### AI & Computer Vision
