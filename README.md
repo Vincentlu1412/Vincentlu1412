@@ -3,7 +3,7 @@ Master graduate in Electronic Information, **Fudan University**.
 I work across **Embodied Intelligence, Multimodal Models, Computer Vision, GPU/AI Hardware Architecture, High-Performance Computing and AI System Infrastructure**, with solid experience in algorithm implementation, performance optimization, cluster operation and hardware-related system development.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincentlu1412)
+
 
 ---
 
