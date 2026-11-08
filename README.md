@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Wentao Lu (Vincent Lu)
-Master graduate in Electronic Information, **Fudan University**.
+Master graduate in Electronic and Information Engineering, **Fudan University**.
 I work across **Embodied Intelligence, Multimodal Models, Computer Vision, GPU/AI Hardware Architecture, High-Performance Computing and AI System Infrastructure**, with solid experience in algorithm implementation, performance optimization, cluster operation and hardware-related system development.
 
 
